@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1622917429 source:c:\users\nanki\desktop\chatbot.cpp\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<mmsystem.h>
+	<stdio.h>
+
